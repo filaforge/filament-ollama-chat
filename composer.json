@@ -1,5 +1,5 @@
 {
-    "name": "filaforge/ollama-chat",
+    "name": "filament/ollama-chat",
     "description": "Filament v4 Ollama chat plugin (conversations, settings, models).",
     "type": "library",
     "license": "MIT",
